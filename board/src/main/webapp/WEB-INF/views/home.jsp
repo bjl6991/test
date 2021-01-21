@@ -10,6 +10,13 @@
 	Hello world!  
 </h1>
 
-<P>  맬로디 없던 내 인생 아침에 다시 꼬끼오 </P>
+	<P>  aaaa </P>
+	
+	<p>
+	<a href = "/board/list">게시물 목록</a>
+	<a href = "/board/write">게시물 작성</a>
+	</p>
+	
+	
 </body>
 </html>
